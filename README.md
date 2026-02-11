@@ -21,7 +21,7 @@ The objective of this phase was to demonstrate:
 
 ---
 
-## 🛠 Tools & Technologies Used  
+##  Tools & Technologies Used  
 
 - Python (Pandas, Matplotlib)
 - Jupyter Notebook / Google Colab
