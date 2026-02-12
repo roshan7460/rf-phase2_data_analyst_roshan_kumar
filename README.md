@@ -35,22 +35,25 @@ The objective of this phase was to demonstrate:
 
 ```
 
-rf-phase2_data_analyst_roshan_kumar
-│
-├── PRACTICAL TASKS
-│   ├── Task 1 Business Dataset Analysis
-│   │   ├── SuperStoreOrders.csv
-│   │   ├── SuperStoreOrders.ipynb
-│   │   ├── README.md
-│   │   └── images/
-│   │
-│   ├── Task 2 SQL Challenge
-│   │   ├── sql_challenges.sql
-│   │   └── SuperStoreOrders.csv
-│   │
-│   └── Task 3 Visualization
-│
-└── Theory Task
+rf-phase2_data_analyst_roshan_kumar  
+│  
+├──  PRACTICAL TASKS  
+│   │  
+│   ├──  Task 1 – Business Dataset Analysis  
+│   │   ├──SuperStoreOrders.csv  
+│   │   ├──SuperStoreOrders.ipynb  
+│   │   ├── README.md  
+│   │   └──images/  
+│   │  
+│   ├── Task 2 – SQL Challenge  
+│   │   ├──sql_challenges.sql  
+│   │   └──SuperStoreOrders.csv  
+│   │  
+│   └──  Task 3 – Visualization  
+│       ├──Sales Dashboard Project.pbix  
+│       └──global_superstore_data.xlsx  
+│  
+└──  Theory Task
 
 ```
 
